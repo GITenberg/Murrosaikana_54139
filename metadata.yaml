@@ -1,0 +1,25 @@
+_repo: Murrosaikana_54139
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nielsen, Zakarias
+    alias: Nielsen, Jens Peter Zakarias
+    birthdate: 1844
+    deathdate: 1922
+    gutenberg_agent_id: '47727'
+    url: http://www.gutenberg.org/2009/agents/47727
+description: ''
+gutenberg_issued: '2017-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54139'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Murrosaikana
+url: http://www.gutenberg.org/ebooks/54139
